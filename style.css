@@ -1,0 +1,21 @@
+body {
+	color: #7D6001;
+}
+
+.vacation {
+	color: #BD8D46;
+	background-color: #EFECCA;
+}
+
+.liens {
+	font-style: italic;
+}
+
+#total {
+	font-weight: bold;
+}
+
+footer {
+	color: #BD8D46;
+	background-color: #EFECCA;
+}
